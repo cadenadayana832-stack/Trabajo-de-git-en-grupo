@@ -20,6 +20,7 @@ namespace Trabajo_de_git_en_grupo
 
             Console.WriteLine("==================================");
             Console.WriteLine($"Total: {zapatos.Length} marcas");
+            Console.WriteLine("Marca Zapatos");
         }
     }
 }
